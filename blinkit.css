@@ -87,6 +87,14 @@
     .pan_cornerimg>img{
         display: none;
     }
+    .my-list>img{
+       width: 50%;
+
+    }
+
+
+
+
 
 }
 
